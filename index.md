@@ -1,7 +1,10 @@
 ## About Me
 <img src="IMG_5562.jpg" align="left"  width="300"> I am a third year graduate student in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortunate of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/). I'm currently interested in entropic regularized optimal transport and its connections to machine learning. More broadly, I am interested in all things probability, optimization, and machine learning (particularly reinforcement learning and language models). 
 
-I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by Prof. Thomas Sinclair. 
+I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by Prof. Thomas Sinclair.
+
+I interned at [Lawrence Livermore National Laboratory](https://data-science.llnl.gov/dssi) in the summers of 2021 and 2023, where I was mentored by Mikel Landajuela in projects involving reinforcement learning, language models, and symbolic regression.
+In the summer of 2020, I interned at [Sandia National Laboratories](https://www.sandia.gov/) where I was mentored by Dusty Brooks and Brian Ehrhart in a project applying Bayesian statistical methods to estimate leak frequencies. 
 
 ## Publications, Conference Papers, and Technical Reports
 - M. Landajuela, C. Shing Lee, J. Yang, R. Glatt, C. Santiago, T. N. Mundhenk, I. Aravena, **G. Mulcahy**, B. K. Petersen, [*A unified framework for deep symbolic regression*](https://openreview.net/forum?id=2FNnBhwJsHK). Thirty-sixth Conference on Neural Information Processing Systems, 2022, NeurIPS 2022.
