@@ -1,5 +1,5 @@
 ## About Me
-<img src="picture.jpg" align="left"  width="300"> I am a third year graduate student in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortunate of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/). I'm currently interested in entropic regularized optimal transport and its connections to machine learning. More broadly, I am interested in all things probability, optimization, and machine learning (particularly reinforcement learning and language models). 
+<img src="IMG_5562.jpg" align="left"  width="300"> I am a third year graduate student in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortunate of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/). I'm currently interested in entropic regularized optimal transport and its connections to machine learning. More broadly, I am interested in all things probability, optimization, and machine learning (particularly reinforcement learning and language models). 
 
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by Prof. Thomas Sinclair. 
 
@@ -11,5 +11,3 @@ I did my undergraduate studies in Mathematics and Statistics at [Purdue Universi
 
 ## Contact Information
 My email is gmulcahy @ uw . edu.
-
-If you were expecting information about Ancient Mediterranean religions, you have the wrong Mulcahy. My sister [Ciara](https://religion.unc.edu/_people/graduate-students/) is a graduate student in religious studies at UNC Chapel Hill. 
