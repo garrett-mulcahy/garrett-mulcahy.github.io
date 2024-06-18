@@ -7,7 +7,7 @@ I interned at [Lawrence Livermore National Laboratory](https://data-science.llnl
 In the summer of 2020, I interned at [Sandia National Laboratories](https://www.sandia.gov/) where I was mentored by Dusty Brooks and Brian Ehrhart in a project applying Bayesian statistical methods to estimate leak frequencies. 
 
 ## Publications, Conference Papers, and Technical Reports
-- Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. *Iterated Schrodinger Bridge Approximation to Wassertsein Gradient Flows*. [Draft]
+- Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. *Iterated Schrodinger Bridge Approximation to Wassertsein Gradient Flows*. [Arxiv](https://arxiv.org/abs/2406.10823)
 - M. Landajuela, C. Shing Lee, J. Yang, R. Glatt, C. Santiago, T. N. Mundhenk, I. Aravena, **G. Mulcahy**, B. K. Petersen, [*A unified framework for deep symbolic regression*](https://openreview.net/forum?id=2FNnBhwJsHK). Thirty-sixth Conference on Neural Information Processing Systems, 2022, NeurIPS 2022.
 - **Mulcahy, G.** & Sinclair T., [*Malnormal matrices*](https://arxiv.org/abs/2009.11139), Proc. Amer. Math. Soc. 150 (2022), no. 7, 2969-2982
 - **Mulcahy, G.**, Brooks, D.M., Ehrhart, B, [*Using Bayesian methodology to estimate liquefied natural gas leak frequencies*](https://www.osti.gov/biblio/1782412), Sandia National Laboratories, Albuquerque, New Mexico, 2021, SAND2021-4905. 
