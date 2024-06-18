@@ -3,9 +3,6 @@
 
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
-I interned at [Lawrence Livermore National Laboratory](https://data-science.llnl.gov/dssi) in the summers of 2021 and 2023, where I was mentored by Mikel Landajuela in projects involving reinforcement learning, language models, and symbolic regression.
-In the summer of 2020, I interned at [Sandia National Laboratories](https://www.sandia.gov/) where I was mentored by Dusty Brooks and Brian Ehrhart in a project applying Bayesian statistical methods to estimate leak frequencies. 
-
 ## Publications, Conference Papers, and Technical Reports
 - Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. *Iterated Schrodinger Bridge Approximation to Wassertsein Gradient Flows*. [Arxiv](https://arxiv.org/abs/2406.10823)
 - M. Landajuela, C. Shing Lee, J. Yang, R. Glatt, C. Santiago, T. N. Mundhenk, I. Aravena, **G. Mulcahy**, B. K. Petersen, [*A unified framework for deep symbolic regression*](https://openreview.net/forum?id=2FNnBhwJsHK). Thirty-sixth Conference on Neural Information Processing Systems, 2022, NeurIPS 2022.
