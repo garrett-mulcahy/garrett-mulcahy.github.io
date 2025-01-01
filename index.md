@@ -1,5 +1,17 @@
-## About Me
-<img src="IMG_5562.jpg" align="left"  width="150"> I am a third year graduate student in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortunate of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/). I'm currently interested in entropic regularized optimal transport and its connections to machine learning. More broadly, I am interested in all things probability, optimization, and machine learning (particularly reinforcement learning and language models). 
+# Garrett Mulcahy
+<img src="IMG_5562.jpg" align="left"  width="200"> 
+
+I am a fourth year graduate student in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/).
+
+I'm currently interested **optimal transport** and its connections to **machine learning and statistics**. 
+
+More concretely, my recent projects have involved
+- entropic regularized optimal transport (**Schrödinger bridges**) 
+- **gradient flows** in the Wasserstein space
+- **diffusion process** approximations to Schrödinger bridges
+- statistical **sensitivity analysis** via optimal transport
+
+More broadly, I am interested in all things probability, optimization, and machine learning. I have previously worked on applied projects involving **reinforcement learning** and **langauge models**.
 
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
