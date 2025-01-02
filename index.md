@@ -5,10 +5,9 @@ I am a fourth year graduate student in the Mathematics Department at the [Univer
 
 I'm currently interested **optimal transport** and its connections to **machine learning and statistics**. 
 
-More concretely, my recent projects have involved
-- entropic regularized optimal transport (**Schrödinger bridges**) 
-- **gradient flows** in the Wasserstein space
-- **diffusion process** approximations to Schrödinger bridges
+My recent projects have involved
+- approximating entropic regularized optimal transport plans (**Schrödinger bridges**) 
+- approximating **gradient flows** in the Wasserstein space using Schrödinger bridges
 - statistical **sensitivity analysis** via optimal transport
 
 More broadly, I am interested in all things probability, optimization, and machine learning. I have previously worked on applied projects involving **reinforcement learning** and **langauge models**.
@@ -16,7 +15,7 @@ More broadly, I am interested in all things probability, optimization, and machi
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
 ## Publications, Conference Papers, and Technical Reports
-- Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. *Iterated Schrodinger Bridge Approximation to Wassertsein Gradient Flows*. [Arxiv](https://arxiv.org/abs/2406.10823)
+- Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. *Iterated Schrödinger Bridge Approximation to Wassertsein Gradient Flows*. [Arxiv](https://arxiv.org/abs/2406.10823)
 - M. Landajuela, C. Shing Lee, J. Yang, R. Glatt, C. Santiago, T. N. Mundhenk, I. Aravena, **G. Mulcahy**, B. K. Petersen, [*A unified framework for deep symbolic regression*](https://openreview.net/forum?id=2FNnBhwJsHK). Thirty-sixth Conference on Neural Information Processing Systems, 2022, NeurIPS 2022.
 - **Mulcahy, G.** & Sinclair T., [*Malnormal matrices*](https://arxiv.org/abs/2009.11139), Proc. Amer. Math. Soc. 150 (2022), no. 7, 2969-2982
 - **Mulcahy, G.**, Brooks, D.M., Ehrhart, B, [*Using Bayesian methodology to estimate liquefied natural gas leak frequencies*](https://www.osti.gov/biblio/1782412), Sandia National Laboratories, Albuquerque, New Mexico, 2021, SAND2021-4905. 
