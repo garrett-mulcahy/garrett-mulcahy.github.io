@@ -10,7 +10,7 @@ My recent projects have involved
 - approximating **gradient flows** in the Wasserstein space using Schrödinger bridges
 - statistical **sensitivity analysis** via optimal transport
 
-More broadly, I am interested in all things probability, optimization, statistics, and machine learning. I have previously worked on applied projects involving **reinforcement learning**, **langauge models**, and **Bayesian statistics**.
+More broadly, I am interested in all things probability, statistics, and machine learning. I have previously worked on applied projects involving **reinforcement learning**, **language models**, and **Bayesian statistics**.
 
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
