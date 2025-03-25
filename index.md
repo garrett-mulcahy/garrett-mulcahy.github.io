@@ -3,7 +3,7 @@
 
 I am a fourth year graduate student in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/).
 
-I'm currently interested **optimal transport** and its connections to **machine learning and statistics**. 
+I'm currently interested in **optimal transport** and its connections to **machine learning and statistics**. 
 
 My recent projects have involved
 - approximating entropic regularized optimal transport plans (**Schrödinger bridges**) 
