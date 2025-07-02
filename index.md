@@ -6,7 +6,6 @@ I am a fifth year PhD candidate in the Mathematics Department at the [University
 I plan to graduate in June 2026. **I am on the job market for postdoctoral/research positions starting Summer/Fall 2026.**
 
 I'm currently interested in **optimal transport** and its connections to **machine learning and statistics**. 
-
 My recent projects have involved
 - approximating entropic regularized optimal transport plans (**Schrödinger bridges**) 
 - approximating **gradient flows** in the Wasserstein space using Schrödinger bridges
