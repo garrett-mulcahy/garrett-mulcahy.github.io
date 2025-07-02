@@ -1,7 +1,7 @@
 # Garrett Mulcahy
 <img src="IMG_7677.jpg" align="left"  width="200"> 
 
-I am a fifth year PhD candidate in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/).
+I am a fourth year PhD candidate in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/).
 
 I plan to graduate in June 2026. **I am on the job market for postdoctoral/research positions starting Summer/Fall 2026.**
 
