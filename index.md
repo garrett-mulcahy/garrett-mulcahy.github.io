@@ -1,9 +1,9 @@
 # Garrett Mulcahy
 <img src="IMG_7677.jpg" align="left"  width="200"> 
 
-I am a fourth year PhD candidate in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/).
+I am a fifth year PhD candidate in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/).
 
-I plan to graduate in June 2026. **I am on the job market for postdoctoral/research positions starting Summer/Fall 2026.**
+I plan to graduate in June 2026. **I am on the job market for postdoctoral/research positions starting Fall 2026.**
 
 I'm currently interested in **optimal transport** and its connections to **machine learning and statistics**. 
 My recent projects have involved
