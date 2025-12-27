@@ -14,7 +14,8 @@ I am interested in all things probability, statistics, and machine learning. I h
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
 ## Publications, Conference Papers, and Technical Reports
-- Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. *Langevin Diffusion Approximation to Same Marginal Schrödinger Bridge*. [Arxiv](https://arxiv.org/abs/2505.07647)
+- **Mulcahy, G.**, Pal, S. (2025) *Diffusions Approximations to Schrödinger Bridges on Manifolds*. [Arxiv](https://arxiv.org/abs/2512.18867)
+- Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, Pal, S. (2025) *Langevin Diffusion Approximation to Same Marginal Schrödinger Bridge*. [Arxiv](https://arxiv.org/abs/2505.07647)
 - M. Landajuela, C. Shing Lee, J. Yang, R. Glatt, C. Santiago, T. N. Mundhenk, I. Aravena, **G. Mulcahy**, B. K. Petersen, [*A unified framework for deep symbolic regression*](https://openreview.net/forum?id=2FNnBhwJsHK). Thirty-sixth Conference on Neural Information Processing Systems, 2022, NeurIPS 2022.
 - **Mulcahy, G.** & Sinclair T., [*Malnormal matrices*](https://arxiv.org/abs/2009.11139), Proc. Amer. Math. Soc. 150 (2022), no. 7, 2969-2982
 - **Mulcahy, G.**, Brooks, D.M., Ehrhart, B, [*Using Bayesian methodology to estimate liquefied natural gas leak frequencies*](https://www.osti.gov/biblio/1782412), Sandia National Laboratories, Albuquerque, New Mexico, 2021, SAND2021-4905. 
