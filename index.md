@@ -7,7 +7,7 @@ I am on the academic job market for positions that start in Fall 2027.
 
 My main research interest is the **mathematical foundations of machine learning models**, particularly flow-based models. To this end, I use tools from **optimal transport** and its entropic regularized counterpart, the **Schrödinger bridge**, in addition to tools from stochastic calculus and probability theory. 
 
-My recent projects have involved developing approximations to the entropic regularized optimal transport plans (**Schrödinger bridges**) in the small and large temperature regimes and approximating **gradient flows** in the Wasserstein space using Schrödinger bridges. 
+My recent projects have involved developing approximations to the entropic regularized optimal transport plans (**Schrödinger bridges**) in the small and large temperature regimes and approximating **gradient flows** in the Wasserstein space. 
 
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
