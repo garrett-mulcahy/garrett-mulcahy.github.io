@@ -25,3 +25,5 @@ I did my undergraduate studies in Mathematics and Statistics at [Purdue Universi
 
 ## Contact Information
 My email is gmulcahy @ uw . edu.
+
+Dans mes temps libres, j’adore étudier la langue française. J’ai obtenu mon diplôme DELF B2 il y a quelques mois ! N’hésitez pas à me contacter en français si c’est votre préférence. 
