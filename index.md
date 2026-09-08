@@ -3,7 +3,7 @@
 
 I am a sixth year PhD candidate in the Mathematics Department at the [University of Washington, Seattle](https://math.washington.edu/), where I have the good fortune of being advised by [Prof. Soumik Pal](https://sites.math.washington.edu//~soumik/). I expect to graduate in June 2027. 
 
-I am on the academic job market for positions that start in Fall 2027.
+I am on the job market for positions that start in Fall 2027.
 
 My main research interest is the **mathematical foundations of machine learning models**, particularly flow-based models. To this end, I use tools from **optimal transport** and its entropic regularized counterpart, the **Schrödinger bridge**, in addition to tools from stochastic calculus and probability theory. 
 
