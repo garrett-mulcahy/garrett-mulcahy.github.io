@@ -12,6 +12,7 @@ My recent projects have involved developing approximations to the entropic regul
 I did my undergraduate studies in Mathematics and Statistics at [Purdue University](https://www.math.purdue.edu/), where I was generously mentored by [Prof. Thomas Sinclair](https://www.math.purdue.edu/~tsincla/).
 
 ## Publications and Preprints
+- **Mulcahy, G.**, Pal, S. (2026) *Diffusion Approximations to Schrödinger Bridges and the Convergence of Entropic Potentials*. [Arxiv](https://arxiv.org/abs/2609.22595) (*Preprint*)
 - **Mulcahy, G.** (2026) *Noising-Denoising by Large Temperature Schrödinger Bridges*. [Arxiv](https://arxiv.org/abs/2608.25094) (*Preprint*)
 - **Mulcahy, G.**, Pal, S. (2025) *Diffusions Approximations to Schrödinger Bridges on Manifolds*. [Arxiv](https://arxiv.org/abs/2512.18867) (*Preprint, submitted*)
 - Agarwal, M., Harchaoui, Z., **Mulcahy, G.**, and Pal, S. (2026). *Langevin diffusion approximation to same marginal Schrödinger bridge*. Journal of Functional Analysis, 291(1):Paper No. 111494, 27. [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022123626001588), [Arxiv](https://arxiv.org/abs/2505.07647)
